@@ -2,4 +2,3 @@ Write a C# class called Product, which will have two derived classes CannedFood 
 
 Create 2 objects, one for CannedFood another for Laptop. Now print all info. It is your choice whether you want to use default or non-default constructor. Fields type is also your choice according to your understanding. Please do not use DateTime type from .Net framework.
 
-Once you finish the job take screenshot of your code. Gather all the image in a single file make it pdf and upload it by 8:45 pm into your VUES account. Copy code will be given 0 and also if you miss the timeline you can’t upload. So be prepare. If you can’t save your own code it’s your problem not mine. File size must be less than 4 MB.
