@@ -1,4 +1,14 @@
-Write a C# class called Product, which will have two derived classes CannedFood and Laptop. All the product must have id, quantity, price, production date, manufacturer name. In case of canned food product quantity can be 1 kg, 1.5 kg, 4.5 kg etc. But when it comes to Laptop quantity should be a whole number. Canned food must have an expiry date where laptop should have memory size, clock speed and battery lifetime. Create method to show the information of all products. In case of canned food there will be a 5% VAT on the price where it will be 10% for Laptop and a surcharge of 2% only for laptop. Create separate method to find out the extra charge on product and show them as output using the show information method.
+Write a C# class called Product, which will have two derived classes CannedFood and Laptop. 
+All the product must have id, quantity, price, production date, manufacturer name. 
+In case of canned food product quantity can be 1 kg, 1.5 kg, 4.5 kg etc. 
+But when it comes to Laptop quantity should be a whole number. Canned food must have an expiry date 
+where laptop should have memory size, clock speed and battery lifetime. Create method to show the 
+information of all products. In case of canned food there will be a 5% VAT on the price where it 
+will be 10% for Laptop and a surcharge of 2% only for laptop. Create separate method to find out 
+the extra charge on product and show them as output using the show information method.
 
-Create 2 objects, one for CannedFood another for Laptop. Now print all info. It is your choice whether you want to use default or non-default constructor. Fields type is also your choice according to your understanding. Please do not use DateTime type from .Net framework.
+Create 2 objects, one for CannedFood another for Laptop. Now print all info. 
+It is your choice whether you want to use default or non-default constructor. 
+Fields type is also your choice according to your understanding. 
+Please do not use DateTime type from .Net framework.
 
